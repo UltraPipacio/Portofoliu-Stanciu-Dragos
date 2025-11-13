@@ -6,7 +6,8 @@ h1, h2, h6, td {
 }
 
 body {
-  background-color: lightgrey;
+  background-image: url("images/24600.jpg");
+  
 }
 
 h1, h2 {
@@ -33,11 +34,11 @@ table, th, td {
   border: 1px solid blue;
 }
 table {
-  width: 50%;
+  width: 50%, ;
 }
 
 th {
-  height: 70px;
+  height: 70px, text-align: center;
 }
 td {
   text-align: center;
@@ -47,3 +48,12 @@ std {
   height: 50px;
   vertical-align: bottom;
 }
+
+#cocos {
+  text-align: center;
+}
+
+#wowo { 
+   color: white;
+   text-align: center;
+{
