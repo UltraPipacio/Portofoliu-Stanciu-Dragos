@@ -1,0 +1,59 @@
+h1, h2, h6, td {
+	text-align: center;
+        color: red;
+       
+        
+}
+
+body {
+  background-image: url("images/24600.jpg");
+  
+}
+
+h1, h2 {
+  color: red;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+  color: red;
+}
+
+#ep3-typer {
+      border-radius: 30px;
+      display: block;
+      margin: auto;
+}
+h6 {
+  font-size: 20px
+}
+
+table, th, td {
+  border: 1px solid blue;
+}
+table {
+  width: 50%, ;
+}
+
+th {
+  height: 70px, text-align: center;
+}
+td {
+  text-align: center;
+}
+
+std {
+  height: 50px;
+  vertical-align: bottom;
+}
+
+#cocos {
+  text-align: center;
+}
+
+#wowo { 
+   color: white;
+   text-align: center;
+{
